@@ -1,1 +1,2 @@
 Fix bug on master
+Add feature2
