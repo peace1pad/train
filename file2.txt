@@ -1,2 +1,4 @@
 Fix bug on master
 Add feature2
+Add feature 3
+Add more on feature 3
